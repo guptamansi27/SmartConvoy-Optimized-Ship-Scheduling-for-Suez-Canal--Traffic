@@ -1,0 +1,3 @@
+ Smart Convoy is an innovative project designed to demonstrate how technology can be used to improve vehicle coordination, safety, and efficiency. The system focuses on smart communication and decision-making between vehicles moving together as a convoy. It reflects real-world applications of intelligent transportation systems and smart mobility solutions.
+
+This project highlights how automation and smart logic can reduce human error, enhance coordination, and optimize movement in group-based vehicle systems.
